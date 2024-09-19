@@ -6,6 +6,7 @@ Features:
 - Option to include uppercase letters, numbers, and special characters
 - Copy generated password to clipboard
 - Simple, intuitive GUI interface
+- 
 Technologies Used:
 
 - Python 3.x
